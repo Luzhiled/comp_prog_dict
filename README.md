@@ -3,6 +3,8 @@
 # comp_prog_dict
 競技プログラマ用 Google IME ユーザ辞書
 
+直接変換できない / 変換できるけどデフォルトの状態だと変換が遅い単語を登録している
+
 # Google IME
 
 ## Mac OS
